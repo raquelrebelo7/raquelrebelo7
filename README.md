@@ -1,4 +1,4 @@
-## Olá, me chamo Raquel Rebelo e sou desenvolvedora web full-stack :)
+## Olá, eu sou a Raquel Rebelo, desenvolvedora web full-stack :)
 
  <div>
    <a href="https://github.com/raquelrebelo7">
